@@ -1,0 +1,8 @@
+Earthquake data from http://earthquake.usgs.gov/research/data/centennial.php.
+As per http://www.usgs.gov/laws/info_policies.html, this data is in the public domain.
+Credit: U.S. Geological Survey 
+Department of the Interior/USGS
+
+Earth texture from http://earthobservatory.nasa.gov/Features/BlueMarble/BlueMarble_monthlies.php
+As per http://www.jsc.nasa.gov/policies.html#Guidelines, this data is in the public domain.
+Data produced by NASA’s Earth Observatory

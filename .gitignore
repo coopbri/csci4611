@@ -1,0 +1,33 @@
+.DS_Store*
+
+# Emacs
+*~
+\#*\#
+/.emacs.desktop
+/.emacs.desktop.lock
+*.elc
+auto-save-list
+tramp
+.\#*
+
+# Vim
+[._]*.s[a-w][a-z]
+[._]s[a-w][a-z]
+*.un~
+Session.vim
+.netrwhist
+*~
+
+bin/*
+!bin/README.md
+
+include/*
+!include/README.md
+
+lib/*
+!lib/README.md
+
+share/*
+!share/README.md
+
+build
