@@ -45,8 +45,6 @@ To run the program, type `./a3-earthquake` in a terminal after the program has b
 ## Mode Toggle
 The earthquake data can be visualized as a plane (default) or as a sphere (globe). This mode can be changed by clicking the `Globe` button in the interactive GUI menu on the top left of the program. In globe mode, the earth rotates over time.
 
-_Note to TAs: Unfortunately, I did not have enough time to implement the linear interpolation between the two modes. I was able to get it working to an extent, but it was breaking other parts of the program._
-
 ## Playback Speed
 The earthquakes are rendered automatically as soon as the program is launched, but the speed of the visualization can be controlled by altering the `Playback Speed` slider in the middle of the menu. By default, this is at `50%`.
 
