@@ -2,11 +2,10 @@
 <h3>CSCI 4611 Assignment 3: Earthquakes</h3>
 <h4>Brian Cooper</h4>
 <hr>
-
-![a3 preview](a3.png =700x400)
-
+<img src="a3.png" width=700 height=400></img>
 </center>
 
+## Program Overview
 This program uses data from NASA (image of Earth) and USGS (earthquake data) to visualize earthquakes over time. The earthquakes are represented as small spheres on the surface of the earth, and their color and size represents their magnitude, which is based on their <a href="http://www.geo.mtu.edu/UPSeis/magnitude.html">magnitude class</a>. In detail, the classes and their corresponding magnitudes, sizes, and colors are:
 
 <table style="text-align:center">

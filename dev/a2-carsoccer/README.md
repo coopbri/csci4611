@@ -2,11 +2,10 @@
 <h3>CSCI 4611 Assignment 2: Car Soccer</h3>
 <h4>Brian Cooper</h4>
 <hr>
-
-![a2 preview](a2.png =600x500)
-
+<img src="a2.png" width=600 height=500></img>
 </center>
 
+## Program Overview
 This assignment involves a small playing field with a ball and car (somewhat reminiscent of _Rocket League_ by Psyonix) and involves rudimentary game physics. The goal is to score the ball into a goal. Various design decisions and features of the program are described below, as well as how to run the program.
 
 ## Compiling and Running
