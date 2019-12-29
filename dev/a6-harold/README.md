@@ -2,6 +2,9 @@
 <h3>CSCI 4611 Assignment 6: Harold</h3>
 <h4>Brian Cooper</h4>
 <hr>
+
+![a6 preview](a6.png =500x400)
+
 </center>
 
 ## Program Overview

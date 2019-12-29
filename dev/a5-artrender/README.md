@@ -2,6 +2,9 @@
 <h3>CSCI 4611 Assignment 5: GLSL Shader Demonstrations</h3>
 <h4>Brian Cooper</h4>
 <hr>
+
+![a5 preview](a5.png =500x400)
+
 </center>
 
 ## Program Overview

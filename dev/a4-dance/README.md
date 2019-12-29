@@ -2,6 +2,9 @@
 <h3>CSCI 4611 Assignment 4: So You Think Ants Can Dance</h3>
 <h4>Brian Cooper</h4>
 <hr>
+
+![a4 preview](a4.png =700x400)
+
 </center>
 
 ## Program Overview
